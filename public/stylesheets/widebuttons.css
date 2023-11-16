@@ -1,0 +1,29 @@
+.btn-warning, .btn-warning:active {
+    color: #6D4C41;   
+    background-color: #f2b412;
+    border-color: #6D4C41;
+}
+
+.btn-warning:hover {
+    color: #6D4C41;   
+    background-color: rgb(242, 180, 18, 0.8);
+    border-color: #6D4C41;
+}
+
+#returnToCampground, #returnToCampground:active {
+    color: #f2b412;   
+    background-color: #6D4C41;
+    border-color: #f2b412;
+}
+
+#returnToCampground:hover {
+    color: #f2b412;   
+    background-color: rgb(109, 76, 65,0.95);
+    border-color: #f2b412;
+}
+
+.btn-warning a, .btn-warning a:active {
+    text-decoration: none;
+    text-align: center;
+    color: #f2b412;  
+}

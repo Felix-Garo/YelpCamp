@@ -1,0 +1,24 @@
+<nav class="navbar sticky-top navbar-expand-lg navbar-dark" >    <!-- Collapsable navbar with dark background, bright text, and "sticky top" will make nav bar stay in place with scroll down. -->
+    <div class="container-fluid"> 
+        <a class="navbar-brand" href="#"><span>Y</span>elp<span>C</span>amp</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+                <a class="nav-link" href="/">Home</a>
+                <a class="nav-link" href="/campgrounds">Campgrounds</a>
+                <a class="nav-link" href="/campgrounds/new">New Campground</a>
+            </div>
+            <div class="navbar-nav ms-auto">
+                <% if(!currentUser) {%>  <!-- Login and Register show up on navbar when client is not signed in -->
+                <a class="nav-link" href="/login">Login</a>
+                <a class="nav-link" href="/register">Register</a>
+                <% } else {%>
+                <a class="nav-link" href="/logout">Logout</a>  <!-- If signed in, then login and register do not appear and instead logout -->
+                <% } %>
+            </div>
+        </div>
+    </div>
+</nav>

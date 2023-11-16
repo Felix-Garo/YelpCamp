@@ -1,0 +1,13 @@
+.navbar-dark {
+    background-color: #241400;
+}
+
+.navbar-brand span, #h1CampG {
+    color: #f2b412;
+    -webkit-text-stroke: 1px #6D4C41;
+}
+
+#navbarNavAltMarkup a:hover {
+    color: #f2b412;
+    -webkit-text-stroke: 0.5px #6D4C41;
+}
