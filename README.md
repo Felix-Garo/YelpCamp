@@ -50,10 +50,21 @@ YelpCamp is a full-stack website that enables the user to create, rate, and revi
 - #### Heroku:
   > A cloud platform as a service supporting several programming languages.
 
-  
+
+
+## Demo
+[https://sheltered-bayou-89555.herokuapp.com/](https://sheltered-bayou-89555.herokuapp.com/)
+
+Directly above is a link to the YelpCamp web application. From there you can explore the various features by signing up and creating an account. Or alternitvely, login by using this proxy account infromation directly below.
+
+#### Username: **guest_user**
+#### Password: **abc123**
+
+**Enjoy!**
+
   
 ## Acknowledgements:
-- The YelpCamp project is inspired by the Web Developer Bootcamp course on Udemy by Colt Steele.
+- The YelpCamp project is inspired by [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) course on Udemy by Colt Steele.
 - Special thanks to the open-source community and the creators of Node.js, Express, MongoDB, Bootstrap, jQuery, Passport.js, Mapbox, Mongoose, Heroku, Cloudinary, and Joi for providing powerful tools for web development.
 
   
