@@ -51,6 +51,8 @@ YelpCamp is a full-stack website that enables the user to create, rate, and revi
   > A cloud platform as a service supporting several programming languages.
 
 
+## Screenshots
+
 
 ## Demo
 [https://sheltered-bayou-89555.herokuapp.com/](https://sheltered-bayou-89555.herokuapp.com/)
