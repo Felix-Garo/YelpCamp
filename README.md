@@ -50,9 +50,22 @@ YelpCamp is a full-stack website that enables the user to create, rate, and revi
 - #### Heroku:
   > A cloud platform as a service supporting several programming languages.
 
+## Screenshots:
+
+<img width="1440" alt="YelpHomeScreen" src="https://github.com/Felix-Garo/YelpCamp/assets/148928126/3a38b730-7f0a-4235-ba2c-58691be83805">
+
+<img width="1440" alt="YelpLogin" src="https://github.com/Felix-Garo/YelpCamp/assets/148928126/e1da482c-c1bd-473a-8370-bb0595f24a84">
+
+<img width="1440" alt="YelpCampground" src="https://github.com/Felix-Garo/YelpCamp/assets/148928126/808cd16f-601e-4bda-8ce1-af7491f812cb">
+
+<img width="1440" alt="AllCampgrounds" src="https://github.com/Felix-Garo/YelpCamp/assets/148928126/eba2228a-1df5-4cbe-b219-9d439ab7ed5b">
+
+<img width="1440" alt="YCList" src="https://github.com/Felix-Garo/YelpCamp/assets/148928126/ed17ab58-043d-4f78-aeae-a4226e5d637f">
+
+<img width="1440" alt="CampDetails" src="https://github.com/Felix-Garo/YelpCamp/assets/148928126/f9047de4-b0b5-4afb-8f3c-a1f007c4e85a">
 
 
-## Demo
+## Demo:
 [https://sheltered-bayou-89555.herokuapp.com/](https://sheltered-bayou-89555.herokuapp.com/)
 
 Directly above is a link to the YelpCamp web application. From there you can explore the various features by signing up and creating an account. Or alternitvely, login by using this proxy account infromation directly below.
